@@ -32,7 +32,7 @@ class App extends React.Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React11111
+          Learn React11111dfsdf
         </a>
         {this.renderText()}
       </header>
