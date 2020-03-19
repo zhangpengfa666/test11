@@ -11,7 +11,7 @@ class App extends React.Component {
   }
 
   renderText = () => {
-    const a = '5555555';
+    const a = '55556666885';
     const b = '2222';
     return (
       <span>{a}</span>
